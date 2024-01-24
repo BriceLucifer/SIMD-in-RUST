@@ -18,6 +18,7 @@
 
 ### 示例
 
+记得先在src文件夹，创建一个main.rs 这个仓库多是lib.rs，benches文件夹里是bench.rs文件
 以下是使用 `cosine_similarity` 函数的一个示例：
 
 ```rust
